@@ -1,1 +1,3 @@
 # ideas
+
+testing eureka cli
